@@ -35,7 +35,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     </platform>
 
     <platform name="android">
-        <preference name="ANDROID_PLAY_ADID_VERSION" default="17.0.+"/>
+        <preference name="ANDROID_PLAY_ADID_VERSION" default="18.0.1"/>
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Idfa">
